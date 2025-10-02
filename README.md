@@ -1,10 +1,11 @@
 # YouTube Loader
 Telegram bot on python for load video from YouTube
 
+usage:
+
 ![yZ4o0cv](https://github.com/KubLda/youtube_loader/blob/SafetyRoad/yZ4o0cv.gif)
 
-
-statistic usage
+statistic usage:
 
 
 ## stack
