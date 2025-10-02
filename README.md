@@ -1,7 +1,7 @@
 # YouTube Loader
 Telegram bot on python, yt-dlp, docker for load video from YouTube
 
-![yZ4o0cv](https://github.com/user-attachments/assets/ac88f441-7066-44d1-ae7d-2706d7215dc9)
+![yZ4o0cv](https://github.com/KubLda/youtube_loader/blob/SafetyRoad/yZ4o0cv.gif)
 
 
 statistic usage
